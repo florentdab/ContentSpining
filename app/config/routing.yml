@@ -1,0 +1,4 @@
+content_spining:
+    resource: "@ContentSpiningBundle/Resources/config/routing.yml"
+    prefix:   /
+

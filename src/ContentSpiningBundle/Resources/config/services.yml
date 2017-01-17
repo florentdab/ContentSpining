@@ -1,0 +1,3 @@
+services:
+    content_spin.test:
+        class: ContentSpiningBundle\ContentSpin\spinnage

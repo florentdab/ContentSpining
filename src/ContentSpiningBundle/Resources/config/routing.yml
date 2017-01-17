@@ -1,0 +1,3 @@
+content_spining_homepage:
+    path:     /
+    defaults: { _controller: ContentSpiningBundle:ContentSpin:index }
